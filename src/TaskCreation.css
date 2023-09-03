@@ -1,0 +1,10 @@
+.TaskCreation {
+    background-image: url('../public/board.jpg'); 
+    background-size:contain;
+    background-repeat: no-repeat;
+    background-attachment: fixed; 
+    background-position: center;
+    height: 100vh;
+    width: 240vh;
+}
+  
